@@ -1,0 +1,11 @@
+h1{
+font-family;Helivica;
+font-size;90px;
+color:pink;
+text-allign:center;
+font-style:italics;
+font-weight900;
+}
+body{
+background-color:blue;
+}
